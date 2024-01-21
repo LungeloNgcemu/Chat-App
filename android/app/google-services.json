@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190008956966",
+    "project_id": "chat-flash-434b9",
+    "storage_bucket": "chat-flash-434b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190008956966:android:b29445528c865d2bca2ee7",
+        "android_client_info": {
+          "package_name": "co.lungelo.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1KN-q54jTfSrN6DGaGHld2nPw4QOBu3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190008956966:android:795b269582589b5bca2ee7",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1KN-q54jTfSrN6DGaGHld2nPw4QOBu3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
